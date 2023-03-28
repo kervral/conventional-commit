@@ -1,3 +1,5 @@
+# [2.0.0](https://github.com/kervral/conventional-commit/compare/v1.1.1...v2.0.0) (2023-03-28)
+
 ## [1.1.1](https://github.com/kervral/conventional-commit/compare/v1.1.0...v1.1.1) (2023-03-28)
 
 
