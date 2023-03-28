@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/kervral/conventional-commit/compare/v1.1.0...v1.1.1) (2023-03-28)
+
+
+### Bug Fixes
+
+* fix all ([9590988](https://github.com/kervral/conventional-commit/commit/9590988f25b69b5c87f480e6e735afcb0e7d0b14))
+
 # [1.1.0](https://github.com/kervral/conventional-commit/compare/v1.0.0...v1.1.0) (2023-03-28)
 
 
