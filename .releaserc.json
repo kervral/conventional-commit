@@ -1,0 +1,24 @@
+{
+  "repositoryUrl": "https://github.com/kervral/conventional-commit",
+  "ci": false,
+  "branches": [
+    "main"
+  ],
+  "plugins": [
+    "@semantic-release/release-notes-generator",
+    [
+      "@semantic-release/changelog",
+      {
+        "changelogFile": "CHANGELOG.md"
+      }
+    ],
+    [
+      "@semantic-release/commit-analyzer",
+      {
+        "preset": "conventionalcommits"
+      }
+    ],
+    "@semantic-release/github",
+    "@semantic-release/git"
+  ]
+}
