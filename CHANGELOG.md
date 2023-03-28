@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/kervral/conventional-commit/compare/v1.0.0...v1.1.0) (2023-03-28)
+
+
+### Bug Fixes
+
+* **test:** remove test ([ce6c0f3](https://github.com/kervral/conventional-commit/commit/ce6c0f3ab6d3609eb1ff2fb96b4675959ea6503b))
+
+
+### Features
+
+* **test:** add test ([a240b9e](https://github.com/kervral/conventional-commit/commit/a240b9eda46772fcecfa0a8b9ac14c3fe7fb48aa))
+
 # 1.0.0 (2023-03-28)
 
 
